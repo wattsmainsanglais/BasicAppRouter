@@ -1,2 +1,0 @@
-# Aiken Giftcard Example
-
